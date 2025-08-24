@@ -37,6 +37,7 @@ I love exploring **new technologies 💻**, integrating them into real-world aut
 
 <a href="https://openai.com/research/large-language-models" target="_blank"><img align="left" alt="LLM" height="42px" src="https://cdn-icons-png.flaticon.com/512/4712/4712107.png"></a>
 <a href="https://pixrobotics.com/" target="_blank"><img align="left" alt="PIX Robotics" height="42px" src="https://static.tildacdn.com/tild3763-6135-4565-b939-316335613032/photo_2022-10-12_170.jpeg"/></a>
+<a href="https://rpa-robin.ru/" target="_blank"><img align="left" alt="Robin Robotics" height="42px" src="https://static.tildacdn.com/tild3233-6663-4133-a362-663137313937/logo_1.png"/></a>
 
 <br/><br/><br/>
 
