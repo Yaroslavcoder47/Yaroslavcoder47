@@ -23,6 +23,8 @@ I love exploring **new technologies 💻**, integrating them into real-world aut
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 <a href="https://isocpp.org/" target="_blank"><img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
 <a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img align="left" alt="FastAPI" height="42px" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg"></a>
+
 <a href="https://www.qt.io/" target="_blank"><img align="left" alt="Qt" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></a>
 <a href="https://www.microsoft.com/sql-server" target="_blank"><img align="left" alt="MS SQL" height="42px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VS Code" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a>
