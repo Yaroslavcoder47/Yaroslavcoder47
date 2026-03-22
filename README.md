@@ -1,7 +1,6 @@
 ## Hey 👋, I'm Yaraslau!
 
-I have worked across multiple areas of CS — **Machine Learning 🤖, RPA Development ⚙️, Business Process Automation 🔄, and Data Analysis 📊** — adapting to the needs of each project.  
-My experience includes **designing and monitoring RPA robots 🤖💼**, streamlining workflows to improve business processes 🚀, and implementing **ML models 🧠** to deliver intelligent solutions.
+I'm a Backend Python Developer focused on learning to build reliable server-side applications and APIs. I also have experience in Machine Learning 🧠 and RPA Development ⚙️ — designing RPA robots, automating business processes, and implementing ML models. This cross-disciplinary background helps me approach problems from multiple angles: from writing clean, maintainable code to applying data-driven thinking in everyday tasks.
 
 I love exploring **new technologies 💻**, integrating them into real-world automation 🛠️, and building solutions that improve efficiency and productivity ⚡.
 
