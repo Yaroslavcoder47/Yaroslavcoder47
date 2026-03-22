@@ -9,7 +9,7 @@ I love exploring **new technologies 💻**, integrating them into real-world aut
 
 ### 📫 Contact Me
 
-<a href="https://www.linkedin.com/in/ярослав-карачун-b15001285"><img align="left" alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="32px"/></a>
+<a href="https://www.linkedin.com/in/yaralsau-karachun"><img align="left" alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="32px"/></a>
 <a href="https://t.me/Kyarik11"><img align="left" alt="telegram" src="https://github.com/user-attachments/assets/8951b2b9-3e21-4ac8-aaf8-4d6e26102772" height="32px"/></a>
 <a href="https://www.instagram.com/yarch_classic/"><img align="left" alt="instagram" src="https://github.com/user-attachments/assets/8e7f839c-6160-4de2-9afe-3708c4398ccd" height="32px"/></a>
 <a href="mailto:karacuna396@gmail.com"><img align="left" alt="gmail" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="32px"/></a>
