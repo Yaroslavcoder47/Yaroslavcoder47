@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Yaraslau!
 
-I'm a Backend Python Developer focused on learning to build reliable server-side applications and APIs. I also have experience in Machine Learning 🧠 and RPA Development ⚙️ — designing RPA robots, automating business processes, and implementing ML models. This cross-disciplinary background helps me approach problems from multiple angles: from writing clean, maintainable code to applying data-driven thinking in everyday tasks.
+I'm a Backend Python Developer focused on learning to build reliable server-side applications and APIs. I also have experience in Machine Learning 🧠 Oracle Database Development ℹ️ and RPA Development ⚙️ — designing RPA robots, automating business processes, and implementing ML models. This cross-disciplinary background helps me approach problems from multiple angles: from writing clean, maintainable code to applying data-driven thinking in everyday tasks.
 
 I love exploring **new technologies 💻**, integrating them into real-world automation 🛠️, and building solutions that improve efficiency and productivity ⚡.
 
